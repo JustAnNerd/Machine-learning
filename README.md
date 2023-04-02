@@ -1,2 +1,4 @@
 # Machine-learning
-This contains all of my machine learning projects I have done from Byju's. I only put personal projects in here that nobody else has helped me with, and all content here was written by me, unless specified otherwise
+This contains all of my machine learning projects I have done. The projects were not created by me, and I only completed them. All code in here has been written by me unless specified otherwise.
+
+All project titles are formatted in YY-DD-MM_MyName_ProjectNumber.
